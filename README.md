@@ -29,7 +29,7 @@ Ein einfacher Web-Shop für Catering-Produkte, gebaut mit **React 19**, **Materi
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/DEIN_USERNAME/blicksolutions-catering.git
+git clone https://github.com/hgoeksel/blicksolutions.git
 cd blicksolutions-catering
 
 ### 2. Backend installieren
